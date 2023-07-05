@@ -37,7 +37,7 @@ Here are a few projects I have worked on:
 - Project 2:
 - Project 3:
 
-For a complete list of my projects, please visit my [portfolio repository](https://github.com/lookman-oliyide/portfolio).
+For a complete list of my projects, please visit my [portfolio repository](https://github.com/lookman-oliyide/portfolio-github).
 
 ## Skills
 
