@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# My GitHub Landing Page
+# Welcome to my GitHub Landing Page
 
-Welcome to my GitHub landing page! This page serves as a showcase of my projects and skills as a frontend web developer with experience in data science. Feel free to explore and get to know more about my work.
+This page serves as a showcase of my projects and skills as a frontend web developer with experience in data science. Feel free to explore and get to know more about my work.
 
 ## Table of Contents
 
